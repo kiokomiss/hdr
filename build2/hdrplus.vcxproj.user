@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>C:/HDR/hdr-plus/raw  yaccd2_MCC_HDR_FluoCold_bck1.png  yaccd2_MCC_HDR_FluoCold_bck1_+2.CR2 yaccd2_MCC_HDR_FluoCold_bck1_0.CR2 yaccd2_MCC_HDR_FluoCold_bck1_-2.CR2</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>C:/HDR/hdr-plus/raw  yaccd2_MCC_HDR_FluoCold_bck1.png  yaccd2_MCC_HDR_FluoCold_bck1_+2.CR2 yaccd2_MCC_HDR_FluoCold_bck1_0.CR2 yaccd2_MCC_HDR_FluoCold_bck1_-2.CR2</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>C:/HDR/hdr-plus/raw  yaccd2_MCC_HDR_FluoCold_bck1.png  yaccd2_MCC_HDR_FluoCold_bck1_+2.CR2 yaccd2_MCC_HDR_FluoCold_bck1_0.CR2 yaccd2_MCC_HDR_FluoCold_bck1_-2.CR2</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommandArguments>C:\HDR\hdr-plus\raw\04  res.png   yaccd2_MCC_LDR_FluoCold_bck1_diff_+2.CR2 yaccd2_MCC_LDR_FluoCold_bck1_diff_0.CR2 yaccd2_MCC_LDR_FluoCold_bck1_diff_-2.CR2</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
